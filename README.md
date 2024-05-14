@@ -24,7 +24,7 @@ Reg.No. : 212222230056
 
 ### Get the input String
 ``` Python
-string = 'Jenisha'
+string = 'Shanmathi'
 ```
 ### Create tree nodes
 ```python
@@ -85,7 +85,8 @@ for (char, frequency) in freq:
 
 ### Print the characters and its huffmancode
 <br>
-<img src="https://github.com/Jenishajustin/HUFFMAN--CODING/assets/119405070/e5c87e4a-a8e7-41cd-ad60-c3dcdaa3dcfa">
+
+![image](https://github.com/ShanmathiShanmugam/HUFFMAN--CODING/assets/121243595/d5e4c851-5607-409b-bcff-d33bb36f8afd)
 
 <br>
 
